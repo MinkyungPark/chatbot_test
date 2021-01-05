@@ -1,0 +1,169 @@
+﻿question,intent
+안녕,welcome
+오랜만이야,welcome
+잘 있었어,welcome
+반가워,welcome
+오랜만,welcome
+어떻게 지냈어,welcome
+잘 지냈니,welcome
+오늘 어때,welcome
+음악 들려줘,music
+노래 듣고싶어,music
+좋은 노래 없나,music
+노래 추천해줘,music
+노래 틀어줘,music
+음악 틀어줘,music
+아니,no
+아니오,no
+됐어,no
+고맙지만 됐어,no
+그건 아니야,no
+아니야,no
+절대 아니야,no
+관심 없어,no
+싫어,no
+아닌 것 같아,no
+하지마,no
+내 생각은 달라,no
+네,yes
+응,yes
+그럼,yes
+좋아,yes
+맞아,yes
+물론,yes
+해,yes
+상관 없어,yes
+바로 그거야,yes
+동의해,yes
+그래,yes
+해줘,yes
+종료해줘,end
+말 그만할래,end
+얘기 하기 싫어,end
+이야기 하기 싫어,end
+그만 말할래,end
+그만 하고 싶어,end
+대화 하기 싫어,end
+이야기 그만할래,end
+얘기 안할래,end
+대화 종료해줘,end
+건강,health
+건강 물어봐줘,health
+내 건강이 어떨까,health
+내 건강 상태가 어떨까,health
+건강이 궁금해,health
+내 건강 궁금해,health
+건강 질문해줘,health
+궁금한 거 없어?,jobdam
+아무말이나 해봐,jobdam
+아무거나 물어봐,jobdam
+심심해,jobdam
+질문해줘,jobdam
+편한 질문해줘,jobdam
+술 때문인 것 같아,alcohol
+술 때문이야,alcohol
+술 많이 먹었어,alcohol
+술 먹었어,alcohol
+술을 줄여야해,alcohol
+술을 줄여야 하는데,alcohol
+술 끊어야돼,alcohol
+혈압 올라,blood
+혈압이 떨어진 것 같아,blood
+혈압이 내려간 것 같아,blood
+혈압이 안좋아,blood
+혈압 질문해줘,blood
+혈압 테스트 해줘,blood
+혈압 테스트,blood
+혈압 애기해줘,blood
+혈압이 올라간 것 같아,blood
+혈압이 올라갔어,blood
+혈당 내려간 것 같아,diabetes
+혈당이 올랐어,diabetes
+혈당이 올랐대,diabetes
+혈당이 올랐나봐,diabetes
+혈당이 오른 것 같아,diabetes
+혈당 말할래,diabetes
+혈당 얘기해줘,diabetes
+혈당 테스트,diabetes
+혈당 테스트해줘,diabetes
+흡연 테스트,smoke
+담배 테스트,smoke
+담배 물어봐줘,smoke
+흡연습관 질문해줘,smoke
+흡연 질문해줘,smoke
+담배 질문해줘,smoke
+담배 얘기할래,smoke
+담배 말할래,smoke
+흡연 물어봐줘,smoke
+흡연 습관 물어봐줘,smoke
+담배를 줄여야 되는데,smoke
+담배를 끊어야 되는데,smoke
+담배 때문이야,smoke
+살이 좀 빠졌나,weight
+살이 빠졌어,weight
+살이 좀 빠졌어,weight
+살 좀 빠졌나봐,weight
+나 살 빠져보여,weight
+살 좀 쪘어,weight
+살이 쪘나봐,weight
+살쪘어,weight
+살이 빠졌어,weight
+살이 빠진 것 같아,weight
+살이 올랐어,weight
+살이 찐 것 같아,weight
+가족이 보고싶어,family
+가족들이 생각나,family
+가족들이 그리워,family
+가족들이 보고싶어,family
+가족이 보고싶어,family
+가족,family
+가족 얘기 물어봐줘,family
+가족 얘기할래,family
+가족 물어봐줘,family
+아들 보고싶어,family
+딸 보고싶어,family
+자식 보고싶어,family
+아들들이 생각나,family
+자식들이 생각나,family
+딸들이 생각나,family
+친구가 없어,friend
+친구 얘기 물어봐줘,friend
+친구,friend
+친구가 많아,friend
+친구들 보고싶어,friend
+친구 만나러 가야해,friend
+취미 물어봐줘,hobby
+취미가 필요한대,hobby
+새로운 취미 없을까,hobby
+등산 가야해,hobby
+등산 가야해,hobby
+절 사람들 보고싶어,religion
+성당 사람들 보고싶어,religion
+교회 사람들 보고싶어,religion
+절에 가야해,religion
+교회 가야해,religion
+종교가 있어,religion
+성당 가야해,religion
+절에 가야돼,religion
+성당에 가야되는데,religion
+종교 물어봐줘,religion
+교회 물어봐줘,religion
+종교 얘기하자,religion
+종교활동이 필요해,religion
+안 좋아,depress
+우울해,depress
+기분이 안좋아,depress
+기분이 좋지 않아,depress
+기분이 울적해,depress
+기분이 우울해,depress
+우울하다,depress
+우울한 것 같아,depress
+우울증 검사해줘,depress
+운동을 해야해,exercise
+운동 가야돼,exercise
+운동 가려고,exercise
+있다 운동 갈거야,exercise
+운동 습관 물어봐줘,exercise
+운동 습관 말할래,exercise
+운동 질문해줘,exercise
+운동 검사해줘,exercise
